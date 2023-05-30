@@ -18,6 +18,3 @@ To run this project, you'll need to have Python 3.x installed, along with the fo
 The easiest way to install these libraries is by using pip package installer.
 ## Usage
 The breast_cancer_prediction.ipynb notebook contains all the code required to train and test the machine learning models. The notebook is self-explanatory and describes each step in detail.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
